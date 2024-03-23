@@ -19,15 +19,15 @@ int main(void) {
 
 //verifica se você foi aprovado, reprovado ou ficou de recuperação.
 if (media >= 7) {
-    printf("\nAprovado");
+    printf("\nAprovado ");
 }
   
 else {
   if (media <=5 ) {
-    printf("\nReprovado");
+    printf("\nReprovado ");
   }  
 else {
-  printf("\nRecuperação");
+  printf("\nRecuperação ");
   }
  } 
 }
