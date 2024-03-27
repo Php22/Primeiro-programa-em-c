@@ -5,7 +5,7 @@ int main(void) {
   float salario, refeicao, reajuste, lucro, diferenca, hora = 0;
   printf("\nInforme o salário: ");
   scanf("%f", &salario);
-  printf("\nInforme o vale refeição: ");
+  printf("\nInforme o novo valor do vale refeição: ");
   scanf("%f", &refeicao);
   printf("\nInforme o reajuste: ");
   scanf("%f", &reajuste);
